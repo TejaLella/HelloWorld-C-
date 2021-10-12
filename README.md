@@ -1,2 +1,2 @@
 # HelloWorld-C#
- 1st Unity Project with Hello World script
+ 1st Unity Project using C# language Hello World script 
